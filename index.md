@@ -18,4 +18,5 @@ When you schedule a meeting please provide enough in the description for me to u
 But please do not just send a link saying 'read this'.
  
 ## See also
-- (https://sbmueller.github.io/nohello/)
+- https://sbmueller.github.io/nohello/
+
